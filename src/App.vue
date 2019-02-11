@@ -2,8 +2,8 @@
     <v-app>
         <v-content>
                 <v-container fill-height fluid ma-0 pa-3>
-                    <v-layout column fill-height justify-center>
-                        <v-flex>
+                    <v-layout row fill-height justify-center>
+                        <v-flex xs12 sm8 md6 lg4 xl3>
                             <v-card class="grey elevation-7">
                                 <div class="black">
                                     <v-card-text class="white--text text-xs-right"
